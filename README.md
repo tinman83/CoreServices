@@ -1,0 +1,2 @@
+# CoreServices
+services with .netcore
