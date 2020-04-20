@@ -1,0 +1,87 @@
+2020-04-20 07:31:24 [INFO]<1> [] ====================================================================
+2020-04-20 07:31:24 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-04-20 07:31:24 [INFO]<1> [] Application Directory: C:\Users\abtmbfp\source\repos\WindowsServiceDemo\Demo\bin\Debug\netcoreapp3.0\
+2020-04-20 07:31:25 [INFO]<1> [Demo.Worker] Worker running at: "2020-04-20T07:31:25.2885851+02:00"
+2020-04-20 07:31:26 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:26.3323057+02:00"
+2020-04-20 07:31:27 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:31:27.3513593+02:00"
+2020-04-20 07:31:28 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:28.3553162+02:00"
+2020-04-20 07:31:29 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:31:29.3582307+02:00"
+2020-04-20 07:31:30 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:30.3607446+02:00"
+2020-04-20 07:31:31 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:31:31.3624711+02:00"
+2020-04-20 07:31:32 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:32.3652061+02:00"
+2020-04-20 07:31:33 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:33.3704359+02:00"
+2020-04-20 07:31:34 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:31:34.3770786+02:00"
+2020-04-20 07:31:35 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:35.3785702+02:00"
+2020-04-20 07:31:36 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:36.3796919+02:00"
+2020-04-20 07:31:37 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:37.3815060+02:00"
+2020-04-20 07:31:38 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:38.3831418+02:00"
+2020-04-20 07:31:39 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:39.3846750+02:00"
+2020-04-20 07:31:40 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:40.3929626+02:00"
+2020-04-20 07:31:41 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:41.3942075+02:00"
+2020-04-20 07:31:42 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:31:42.4027803+02:00"
+2020-04-20 07:31:43 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:43.4042150+02:00"
+2020-04-20 07:31:44 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:44.4056986+02:00"
+2020-04-20 07:31:45 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:45.4071922+02:00"
+2020-04-20 07:31:46 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:46.4083931+02:00"
+2020-04-20 07:31:47 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:47.4095830+02:00"
+2020-04-20 07:31:48 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:48.4111835+02:00"
+2020-04-20 07:31:49 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:31:49.4125622+02:00"
+2020-04-20 07:31:50 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:31:50.4143741+02:00"
+2020-04-20 07:31:51 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:51.4155717+02:00"
+2020-04-20 07:31:52 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:52.4173630+02:00"
+2020-04-20 07:31:53 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:53.4186361+02:00"
+2020-04-20 07:31:54 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:54.4207969+02:00"
+2020-04-20 07:31:55 [INFO]<8> [Demo.Worker] Worker running at: "2020-04-20T07:31:55.4221188+02:00"
+2020-04-20 07:31:56 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:56.4338339+02:00"
+2020-04-20 07:31:57 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:57.4354423+02:00"
+2020-04-20 07:31:58 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:58.4363963+02:00"
+2020-04-20 07:31:59 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:31:59.4372851+02:00"
+2020-04-20 07:32:00 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:00.4381215+02:00"
+2020-04-20 07:32:01 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:32:01.4397055+02:00"
+2020-04-20 07:32:02 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:32:02.4411407+02:00"
+2020-04-20 07:32:03 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:03.4419737+02:00"
+2020-04-20 07:32:04 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:04.4431855+02:00"
+2020-04-20 07:32:05 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:05.4445897+02:00"
+2020-04-20 07:32:06 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:06.4454245+02:00"
+2020-04-20 07:32:07 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:07.4464456+02:00"
+2020-04-20 07:32:08 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:08.4478501+02:00"
+2020-04-20 07:32:09 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:09.4490113+02:00"
+2020-04-20 07:32:10 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:10.4496782+02:00"
+2020-04-20 07:32:11 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:11.4512769+02:00"
+2020-04-20 07:32:12 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:12.4522283+02:00"
+2020-04-20 07:32:13 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:13.4533349+02:00"
+2020-04-20 07:32:14 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:14.4546084+02:00"
+2020-04-20 07:32:15 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:32:15.4553990+02:00"
+2020-04-20 07:32:16 [INFO]<7> [Demo.Worker] Worker running at: "2020-04-20T07:32:16.4568518+02:00"
+2020-04-20 07:32:17 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:17.4579402+02:00"
+2020-04-20 07:32:18 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:18.4588210+02:00"
+2020-04-20 07:32:19 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:19.4599433+02:00"
+2020-04-20 07:32:20 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:20.4611476+02:00"
+2020-04-20 07:32:21 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:21.4626039+02:00"
+2020-04-20 07:32:22 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:22.4635016+02:00"
+2020-04-20 07:32:34 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:34.8164989+02:00"
+2020-04-20 07:32:35 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:35.8174353+02:00"
+2020-04-20 07:32:36 [INFO]<4> [Demo.Worker] Worker running at: "2020-04-20T07:32:36.8191380+02:00"
+2020-04-20 07:41:51 [INFO]<1> [] ====================================================================
+2020-04-20 07:41:51 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-04-20 07:41:51 [INFO]<1> [] Application Directory: C:\Users\abtmbfp\source\repos\WindowsServiceDemo\Demo\bin\Debug\netcoreapp3.0\
+2020-04-20 07:41:53 [INFO]<1> [Demo.Worker] Service Starting
+2020-04-20 07:41:53 [INFO]<1> [Demo.Worker] Binding Events from Input Folder: C:\temp
+2020-04-20 07:42:57 [INFO]<6> [Demo.Worker] InBound Change Event Triggered by [C:\temp\a.txt]
+2020-04-20 07:42:57 [INFO]<6> [Demo.Worker] Done with Inbound Change Event
+2020-04-20 07:43:05 [INFO]<6> [Demo.Worker] InBound Change Event Triggered by [C:\temp\b.txt]
+2020-04-20 07:43:05 [INFO]<6> [Demo.Worker] Done with Inbound Change Event
+2020-04-20 08:04:37 [INFO]<1> [] ====================================================================
+2020-04-20 08:04:37 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-04-20 08:04:37 [INFO]<1> [] Application Directory: C:\Users\abtmbfp\source\repos\WindowsServiceDemo\Demo\bin\Debug\netcoreapp3.0\
+2020-04-20 08:04:38 [INFO]<1> [Demo.Worker] Service Starting
+2020-04-20 08:04:38 [INFO]<1> [Demo.Worker] Binding Events from Input Folder: C:\temp
+2020-04-20 08:05:29 [INFO]<6> [Demo.Worker] InBound Change Event Triggered by [C:\temp\c.txt]
+2020-04-20 08:05:29 [INFO]<6> [Demo.Services.ServiceA] In Service A
+2020-04-20 08:05:29 [INFO]<6> [Demo.Services.ServiceB] In Service B
+2020-04-20 08:05:29 [INFO]<6> [Demo.Worker] Done with Inbound Change Event
+2020-04-20 09:55:27 [INFO]<1> [] ====================================================================
+2020-04-20 09:55:27 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-04-20 09:55:27 [INFO]<1> [] Application Directory: C:\Users\abtmbfp\source\repos\LinuxServiceDemo\Demo\bin\Debug\netcoreapp3.0\
+2020-04-20 09:55:28 [INFO]<1> [Demo.Worker] Service Starting
+2020-04-20 09:55:28 [INFO]<1> [Demo.Worker] Binding Events from Input Folder: C:\temp
